@@ -6,6 +6,7 @@ import java.util.TreeSet;
 public class UniqueElementsInArray {
 
 	public static void main(String[] args) {
+		//taking user input
 		Scanner sc = new Scanner(System.in);
 		
 		System.out.print("Enter size of array : ");
