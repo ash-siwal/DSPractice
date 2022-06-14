@@ -15,6 +15,8 @@ public class UniqueElementsInArray {
 		System.out.println("Enter elements of Array  :");
 		
 		int[] arr = new int[size];
+		
+		//using a set to store unique elements from array
 		TreeSet<Integer> ts = new TreeSet<>();
 		
 		for(int i = 0 ; i < size; i++) {
