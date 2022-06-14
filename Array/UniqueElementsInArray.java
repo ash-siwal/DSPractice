@@ -13,7 +13,7 @@ public class UniqueElementsInArray {
 		
 		int size = sc.nextInt();
 		
-		System.out.println("Enter elements of the Array  :");
+		System.out.println("Enter the elements of Array  :");
 		
 		int[] arr = new int[size];
 		
